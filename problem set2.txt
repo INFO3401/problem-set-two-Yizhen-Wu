@@ -63,8 +63,8 @@ To undo it : cp ./datafile.csv ~/Documents/datafile.csv
 
 6. Download and unzip asciify-master.zip from Canvas. Then, navigate to the directory and use the command line to run asciify.py. What does this script do? Include a screenshot of your results. 
 This script opened this file and there is a cute cat. ( At least I think it’ a cute cat)
+The screenshot file is not here, it's under the same folder with this text file.
   
-
 
 
 
